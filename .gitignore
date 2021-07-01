@@ -1,0 +1,10 @@
+.env
+env.py
+.vscode
+env
+__pycache__
+.coverage
+products_app/test_image.jpg
+media
+.coveragerc
+zzz.py
